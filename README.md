@@ -1,5 +1,9 @@
 # Skills-Lab-Week-6
 
-Authors: Benji Margolis, Brian Lucas
+Our program calculates taxes for the user, using income and their retirement plan. 
 
-This program takes user input for their name, income, and retirement plans. It takes that information and subtracts all taxes from the income. It then prints the user's income minus all taxes-- their net income. 
+You first enter your name, followed by your income and your retirement plan, all seperated by one space like (Brian 34000 3200)
+
+The program will return the user name and amount of money they take home after taxes.
+
+Authors: Benji Margolis, Brian Lucas
