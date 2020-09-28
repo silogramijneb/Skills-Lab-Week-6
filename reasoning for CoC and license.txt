@@ -1,0 +1,3 @@
+We chose the Apache License 2.0 because it's an open source license that clearly details what the user can and cannot do. It allows the user to do more or less
+whatever they want with our program, and we feel that that is how it should be. Furthermore, our code of conduct is the Code Covenant one that Professor Burton
+recommended. We feel that it does a good job at making sure the user does not misuse our program, or use it to harm others if possible.
